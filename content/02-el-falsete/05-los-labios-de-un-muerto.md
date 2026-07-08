@@ -4,38 +4,34 @@ epigraph: «...no lo hagas, por favor. Yo nunca se lo conté a nadie. Nunca. [in
 author: Abrinay
 ---
 
-(EL INTERROGADOR tarda en volver de donde ella lo ha mandado. Se reconstruye por dentro, pieza a pieza. Cuando habla, la voz le ha vuelto lisa, blindada.)
+[[ CINTA 05 · 04:48 h
+   En esta cinta se reproduce, dentro de la sala, un archivo de audio ajeno.
+   Se ha respetado. ]]
+
+(La grabadora sisea. [hueco de 2 s.] Él tarda en volver de donde ella lo ha mandado. Cuando habla, la voz se ha vuelto lisa otra vez, blindada.)
 
 EL INTERROGADOR.— Cuénteme lo de esta noche otra vez. Desde el principio. Con calma. Ahora sí tengo tiempo de escucharla bien.
 
-(Ella acaba de ganarle una mano. Baja la guardia, como se baja siempre justo después de ganar. Y cuenta lo de esta noche con demasiado detalle. El detalle es la vanidad del mentiroso.)
+(Ella acaba de ganarle una mano y baja la guardia, como se baja siempre justo después de ganar. Y cuenta lo de esta noche con demasiado detalle. En la cinta se oye la vanidad del mentiroso: adorna.)
 
-AVALON.— La cena, en un sitio que cierra para mí, porque una cara como la mía no puede masticar en público. Leah se despidió a las once, la vi meterse en el coche. Las verjas, el código, el jardín a oscuras. La casa apagada; no me extrañó. Subí. La puerta del estudio entornada. Empujé. Y él en el suelo, junto al piano, de lado, con una rodilla recogida, como los niños cuando duermen. No grité. Me quedé en la puerta. Supe enseguida que estaba muerto: hay una quietud que no imita nada vivo. Y pensé, Dios me perdone, «por fin». Lo pensé y me odié por pensarlo, y las dos cosas eran verdad. Me arrodillé. No lo toqué. Tenía los labios de ese color que ponen los muertos, ¿sabe?, ese violeta apagado, como de ciruela pasada, que no se parece a ningún color de los vivos. Le dije en voz baja una cosa que no le voy a repetir, y bajé, y esperé a que vinieran.
+AVALON.— La cena, en un sitio que cierra para mí, porque una cara como la mía no puede masticar en público sin que la fotografíen. Leah se despidió a las once. Las verjas, el código, el jardín negro. La casa apagada. Subí. La puerta del estudio entornada. Y él en el suelo, junto al piano, de lado, con una rodilla recogida, como los niños cuando duermen. No grité. Me arrodillé. No lo toqué. Tenía los labios de ese color que ponen los muertos, ¿sabe?, ese violeta apagado, como de ciruela pasada, que no se parece a ningún color de los vivos. Le dije al oído una cosa que no le voy a repetir. Y bajé.
 
-(Termina. Le ha salido demasiado bien. Las escenas que salen demasiado bien son las que uno ha ensayado, y uno solo ensaya lo que teme que le pregunten. Él sirve agua en el vaso de ella, que estaba a la mitad. Un gesto cortés y fuera de lugar.)
+(Termina. Le ha salido demasiado bien. Se oye a él servir agua en el vaso de ella —que estaba a la mitad—, un gesto cortés y fuera de lugar que, en la cinta, da más miedo que un grito.)
 
-EL INTERROGADOR.— Es un relato precioso. Le tiembla en los sitios buenos. (Junta las yemas de los dedos.) Solo tiene una cosa que me sobra. Ha dicho que la casa estaba apagada. A oscuras. El jardín a oscuras, la casa a oscuras, la escalera a oscuras. Lo ha dicho tres veces, porque necesitaba que yo lo viera oscuro. Y luego ha entrado en el estudio y me ha descrito el color de los labios de un muerto. Ciruela pasada. Violeta apagado.
+EL INTERROGADOR.— Es un relato precioso. Le tiembla en los sitios buenos. (Pausa.) Solo tiene una cosa que me sobra. Ha dicho tres veces que la casa estaba a oscuras. El jardín a oscuras, la escalera a oscuras. Necesitaba que yo lo viera negro. Y luego se arrodilla y me describe el color de los labios de un muerto. Ciruela pasada. Dígame una cosa. ¿Cómo se ve el color de unos labios en una habitación a oscuras?
 
-(El agua recién servida todavía tiembla por dentro.)
+AVALON.— (Un cuenta hasta tres que la cinta capta como un silencio de dos segundos y medio.) Había luz de la calle. Las farolas.
 
-EL INTERROGADOR.— ¿Cómo se ve el color de unos labios en una habitación a oscuras?
+EL INTERROGADOR.— Su casa está en tres hectáreas de jardín. La farola más cercana, a cuatrocientos metros, y un muro de cuatro metros en medio. Lo he comprobado. En ese estudio, de noche, no se ve una mano delante de la cara. A menos que haya una luz encendida. Y solo había una en toda su casa cuando entró la policía: la lamparita del piano. La del atril. Encendida sobre el sitio donde un hombre se sienta a tocar. No donde se cae muerto. Donde se sienta a tocar.
 
-AVALON.— (Cuenta hasta tres sin que se le note.) Había luz de la calle. Las farolas. Entra por el ventanal.
+(Deja que ella termine sola el trabajo. La cinta corre sobre el silencio. Luego, un clic: el teléfono de la pantalla partida. Él lo enciende y reproduce el mensaje dentro de la sala. La voz de un muerto llena el cuarto sin ventanas.)
 
-EL INTERROGADOR.— Su casa está en tres hectáreas de jardín. La farola más cercana, a cuatrocientos metros, y un muro de cuatro metros en medio. Lo he comprobado antes de traerla. Yo también voy a los sitios y los miro. En ese estudio, de noche, no se ve una mano delante de la cara. A menos que haya una luz encendida. Y solo había una luz encendida en toda su casa cuando entró la policía: la lamparita del piano. La del atril. Alumbrando el sitio donde un hombre se sienta a tocar. No donde un hombre se cae muerto. Donde se sienta a tocar.
+VOZ DE VALE.— (Grabación dentro de la grabación. Un hombre mayor, la respiración hecha jirones.) No lo hagas. Por favor. Yo nunca se lo conté a nadie. Nunca. Escúchame, escú...
 
-(Deja que ella termine sola el trabajo. La peor herida no la hace la mano que la abre, sino el silencio que la deja abierta.)
+(Y debajo de la voz, muy floja, hay otra cosa. Una nota de piano. La misma tecla. Tres veces, muy despacio, como la toca alguien que no está tocando una canción, sino esperando a que algo termine. El mensaje se corta antes del nombre. La nota queda un instante colgando en la cinta, y en la sala, aunque en la sala no hay ningún piano. Nadie la toca. Sigue ahí.)
 
-EL INTERROGADOR.— Alguien estuvo sentado a ese piano esta noche, con la luz encendida, mientras Julian Vale se moría a un metro. Alguien lo bastante tranquilo para no apagarla al bajar. Y vio los labios de cerca, con luz, el tiempo justo para saber a qué ciruela se parecían.
+EL INTERROGADOR.— Detrás de un hombre suplicando por su vida, se oye eso. Un piano. Una sola tecla, una y otra vez, mientras él marcaba su número por última vez. Alguien estaba sentado a ese piano, con la luz encendida, muy tranquilo, mientras Julian Vale se moría a un metro. Lo bastante tranquilo para no apagar la luz al bajar. Y vio los labios de cerca, con luz, el tiempo justo para aprenderse a qué ciruela se parecían. (Deja el teléfono en la mesa, la pantalla encendida.) Así que empecemos otra vez, y sin farolas. ¿Quién estaba sentado a su piano a las once y cuarenta y un minutos de esta noche, tocando esa tecla?
 
-(Coge el teléfono de la pantalla partida. Esta vez lo enciende. Pulsa. Y en la sala, llenándola, entra la voz de un muerto.)
+(Ella, que tiene respuesta para casi todo, en la cinta no encuentra ninguna. Porque la verdad es una tecla concreta —un fa, el que está justo debajo del do central, el que su hermana golpeaba cuando escribía y no le salía, y esperaba a que le saliera— y no hay mentira en el mundo lo bastante buena para tapar por qué es esa, precisamente esa, la nota que sonaba en su casa la noche que se murió el último hombre que sabía la verdad.)
 
-VOZ DE VALE.— (Grabación. Un hombre mayor, la respiración rota.) No lo hagas. Por favor. Yo nunca se lo conté a nadie. Nunca. Escúchame, escú...
-
-(Bajo la voz, muy floja, se oye una nota de piano. La misma tecla. Tres veces, muy despacio, como la toca alguien que no toca una canción, sino que espera. La grabación se corta antes del nombre. Silencio.)
-
-EL INTERROGADOR.— Al fondo del mensaje, detrás de un hombre suplicando por su vida, se oye eso. Un piano. Una sola nota, repetida. Los técnicos la aislarán mañana; yo ya la he oído. (Deja el teléfono boca arriba entre los dos, encendido, latiendo.) Así que empecemos otra vez, y sin farolas. ¿Quién estaba sentado a su piano a las once y cuarenta y un minutos, tocando la misma tecla una y otra vez, mientras Julian Vale marcaba su número por última vez?
-
-(Ella, que tiene respuesta para casi todo, no encuentra ninguna. Porque la verdadera respuesta es una tecla concreta —un fa, el que está justo debajo del do central, el que su hermana golpeaba cuando escribía y no le salía, y esperaba a que le saliera— y no hay mentira lo bastante buena para tapar por qué es esa, precisamente esa, la nota que alguien tocaba en su casa la noche que murió el último hombre que sabía la verdad.)
-
-(Oscuro.)
+[[ FIN CINTA 05 · (la nota de piano continúa en la grabación 6 s más de lo que dura el mensaje · no se ha encontrado explicación) ]]

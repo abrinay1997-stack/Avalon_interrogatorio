@@ -2,14 +2,14 @@
   "title": "El Falsete",
   "author": "Abrinay",
   "subtitle": "Una confesión no es lo contrario de una mentira",
-  "kicker": "Pieza teatral en cuatro actos",
+  "kicker": "Expediente sonoro · Solo para adultos",
   "year": "2026",
   "epigraph": "«Nadie miente tan bien como quien ha aprendido a cantar. Uno pasa la vida entrenando la voz para que diga lo que la voz no siente.»",
   "dedication": "Para las que cantaron y no salieron en la fotografía.",
-  "contentWarning": "Contiene referencias a abuso, adicción y muerte. La violencia explícita es escasa; el daño, casi siempre, es de otra clase.",
+  "contentWarning": "ADVERTENCIA. Estas grabaciones contienen descripciones de abuso a menores, adicción, muerte y coacción psicológica. No hay sangre a chorros: hay algo peor, que se queda. No apto para menores de dieciocho años ni para quien necesite creer que la gente es, en el fondo, buena.",
   "synopsis": [
     "Avalon Davies llena estadios en tres continentes y no ha dormido una noche entera en once años. Hoy, poco antes del amanecer, la conducen a una habitación sin ventanas donde un hombre que no enciende la grabadora ni enseña la placa le ofrece un vaso de agua y una sola pregunta. Julian Vale —el manager que la inventó cuando ella tenía quince años— ha aparecido muerto en su casa. El hombre de la sala dice que solo quiere entender qué ocurrió. Miente, y ella lo sabe antes que nosotros.",
-    "Lo que sigue no es un interrogatorio: es un duelo entre dos personas que dominan el mismo oficio, el de hacer que las palabras signifiquen lo contrario de lo que dicen. Cada respuesta reabre la anterior. Cada confesión abre una duda nueva. El lector creerá tres veces haber descubierto al monstruo, y las tres veces se equivocará, porque la verdadera pregunta de esta novela no es quién mató a Julian Vale, sino cuál de las dos hermanas Pryce está diciendo la verdad —y si Avalon Davies, que ha interpretado a tantas mujeres, recuerda todavía cómo era ser una sola."
+    "Lo que sigue no es un interrogatorio: es un duelo entre dos depredadores que dominan el mismo oficio, el de hacer que las palabras signifiquen lo contrario de lo que dicen. Cada respuesta reabre la anterior. Cada confesión abre una duda nueva, y cada duda huele un poco peor que la anterior. Quien escuche estas cintas creerá tres veces haber descubierto al monstruo, y las tres veces se equivocará, porque la verdadera pregunta no es quién mató a Julian Vale, sino cuál de las dos hermanas Pryce está diciendo la verdad —y si la mujer que canta cada noche para el mundo recuerda todavía cómo era tener un solo nombre, una sola cara, un solo cadáver."
   ],
   "dramatisPersonae": [
     { "name": "Avalon Davies", "role": "La voz de una generación. Tres continentes agotan sus entradas en una hora. Nadie la conoce de verdad. Ni siquiera, tal vez, ella misma." },
@@ -19,9 +19,9 @@
     { "name": "Vivian Pryce", "role": "La madre. Sabía distinguir de un solo vistazo cuál de sus dos hijas servía para la fotografía y cuál para el disco." },
     { "name": "Leah Sorrel", "role": "La asistente. Lleva seis años ordenando las mentiras pequeñas para que las grandes se sostengan de pie." }
   ],
-  "historicalNote": [
-    "Escenario único: una sala sin ventanas. Una mesa de formica, dos sillas, una jarra de agua con dos vasos. Ni relojes ni grabadora a la vista; su ausencia es la primera acotación de la obra. La luz nunca cambia, salvo cuando el texto lo pide: en el teatro, como en un interrogatorio, oscurecer es también una manera de mentir.",
-    "Reparto: dos intérpretes en escena durante toda la pieza —AVALON y EL INTERROGADOR— y una tercera voz que solo se oye, grabada, la de un muerto. Todos los demás —una hermana, una madre, un manager, un pueblo minero galés al que ya nadie vuelve— existen únicamente en lo que estos dos dicen de ellos, y conviene recordar que ninguno de los dos tiene el menor interés en que les creamos del todo.",
-    "«El Falsete» es una obra de ficción; cualquier semejanza con una industria real es su asunto, no una casualidad. Está escrita para ser dicha en voz alta y para ser releída en silencio: cada dato fue sembrado antes de florecer, y quien vuelva a la primera escena al bajar el telón encontrará que la respuesta estuvo siempre delante, en boca de quien no quería que la entendiéramos todavía."
+    "historicalNote": [
+    "Lo que sigue se transcribe de una serie de grabaciones halladas en un piso vacío, entre los efectos del ex inspector E. Vaughan, apartado del cuerpo años atrás. Nadie las autorizó. Nadie sabía que existían. En la sala donde se registraron, un hombre le juró a una mujer que no había ninguna grabadora encendida. Le mintió en la primera palabra, y siguió mintiéndole toda la noche, y ella a él: por eso las tenemos.",
+    "Se oyen dos voces. Una era la cantante más famosa del mundo. La otra ya no habla: cuando este expediente salió a la luz, hacía tiempo que a su dueño no lo encontraba nadie. Todo lo demás —una hermana enterrada con el nombre cambiado, una madre, un hombre que compraba niñas y las llamaba «material», un pueblo minero galés al que ya no vuelve nadie— existe solo en lo que estas dos voces dicen de ello. Ninguna de las dos tiene el menor interés en que las creamos del todo.",
+    "Las cintas se presentan casi sin cortar. Se ha respetado el orden, los silencios y la estática, porque en una confesión el ruido dice tanto como la palabra. Esto es ficción; cualquier parecido con una industria real es su asunto, no un accidente. Cada dato fue sembrado antes de pudrirse: quien vuelva a la primera cinta cuando termine la última encontrará que la respuesta estuvo siempre ahí, respirando, en boca de quien no quería que la entendiéramos todavía."
   ]
 }

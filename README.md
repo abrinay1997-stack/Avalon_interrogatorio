@@ -2,65 +2,66 @@
 
 > *Una confesión no es lo contrario de una mentira.*
 
-**Pieza teatral noir en cuatro actos.** Un solo escenario —una sala de interrogatorios sin ventanas— y una sola noche. Dos intérpretes: la cantante **Avalon Davies** y un hombre que no enciende la grabadora. (Una tercera voz, la de un muerto, solo se oye, grabada.) Julian Vale, el manager que la inventó a los quince años, ha aparecido muerto. Pero esto no es la historia de un crimen: es un duelo entre dos personas que dominan el mismo oficio —hacer que las palabras signifiquen lo contrario de lo que dicen— jugando la partida de sus vidas.
+**Expediente sonoro · ficción noir para adultos.** Trece cintas recuperadas de un interrogatorio que nunca constó en ninguna parte. Una sola noche, un cuarto sin ventanas, dos voces —la cantante más famosa del mundo y un hombre que le jura que no hay ninguna grabadora encendida— y, entre las dos, el cadáver del hombre que inventó a **Avalon Davies**.
 
-Todo es diálogo. Todo es interrogatorio. Quien mira creerá tres veces haber descubierto al monstruo; las tres se equivocará. Y al bajar el telón, si vuelve a la primera escena, encontrará que la respuesta estuvo siempre delante.
+Todo es diálogo. Todo es interrogatorio. Todo está grabado, aunque uno de los dos no lo sepa. Quien escuche creerá tres veces haber descubierto al monstruo; las tres se equivocará. Y al llegar a la última cinta, si vuelve a la primera, encontrará que la respuesta estuvo siempre ahí, respirando.
 
-Prólogo · 12 escenas · Epílogo.
+Contiene abuso, adicción, muerte y coacción psicológica. **No apto para menores de dieciocho años.**
+
+Prólogo · 12 cintas · Epílogo.
 
 ---
 
-## Cómo está organizado el libro
+## Cómo está organizado
 
 El texto vive en `content/`, separado por completo de su presentación:
 
 ```
 content/
-  book.json                 · metadatos, sinopsis, dramatis personae, puesta en escena
-  01-la-sala/               · Acto I  — La Sala
+  book.json                 · metadatos, sinopsis, dramatis personae, advertencia
+  01-la-sala/               · Cara A — La Sala
     part.json
     00-prologo.md
     01-el-vaso-de-agua.md
     02-el-hombre-que-me-invento.md
     03-la-hermana-en-la-sombra.md
-  02-el-falsete/            · Acto II — El Falsete
+  02-el-falsete/            · Cara B — El Falsete
     ...
-  03-el-nombre-equivocado/  · Acto III — El Nombre Equivocado
+  03-el-nombre-equivocado/  · Cara C — El Nombre Equivocado
     ...
-  04-lo-que-enterramos/     · Acto IV — Lo que Enterramos
+  04-lo-que-enterramos/     · Cara D — Lo que Enterramos
     ...
     99-epilogo.md
 ```
 
-Cada escena es un archivo Markdown con un pequeño encabezado (`title`, `epigraph`, `author`).
-Los epígrafes no son adorno: son documentos —titulares, atestados, letras de canciones, mensajes de voz— que enmarcan cada escena y que, releídos al final, dicen más de lo que parecía.
+Cada cinta es un archivo Markdown con un pequeño encabezado (`title`, `epigraph`, `author`).
+Los epígrafes son documentos del caso —titulares, atestados, letras, mensajes de voz— que, releídos al final, dicen más de lo que parecía.
 
-Convenciones del texto (composición teatral):
+Convenciones del texto (transcripción de audio):
 
-- **Pie de personaje**: una línea que empieza por `NOMBRE.—` se compone con el nombre en versalitas y el parlamento a continuación. En escena solo hablan `AVALON.—` y `EL INTERROGADOR.—`; la voz grabada del muerto es `VOZ DE VALE.—`.
-- **Acotaciones**: un párrafo entero entre paréntesis es una acotación (cursiva, sangrada). Entre paréntesis dentro de un parlamento, una acotación breve `(así)`.
-- `*cursiva*` para lo que se canta o se subraya.
-- Una línea con `***` marca un corte de escena; los actos y las escenas los da la estructura de carpetas.
+- **Carátula de cinta**: un bloque envuelto en `[[ ... ]]` se compone como cabecera forense monoespaciada (número de cinta, hora, notas del técnico).
+- **Pie de voz**: una línea que empieza por `NOMBRE.—` lleva el nombre en versalitas. Solo se oyen `AVALON.—`, `EL INTERROGADOR.—` y, grabada, `VOZ DE VALE.—`.
+- **Diseño de sonido**: un párrafo entero entre paréntesis es una acotación de audio (cursiva, sangrada). Dentro de un parlamento, `(así)`.
+- **Anotaciones de cinta**: `[estática]`, `[11 s de silencio]`, `[inaudible]` se marcan entre corchetes.
+- `*cursiva*` para lo que se canta.
 
 ## Cómo leerlo
 
-El proyecto es un generador estático **sin dependencias**. Construye una web de lectura con dos modos —libro paginado y lectura continua—, tema día/noche y memoria de la posición.
+Generador estático **sin dependencias**. Construye una web de lectura con dos modos —cinta paginada y lectura continua—, tema día/noche (léelo de noche) y memoria de posición.
 
 ```bash
 node scripts/build.mjs      # genera /dist
 npm run serve               # construye y sirve en local
 ```
 
-Abre `dist/index.html` para la portada (sinopsis, dramatis personae, índice, puesta en escena)
-o `dist/reader.html` para leer la obra en modo libro.
-
-El sitio se publica solo en **GitHub Pages** con cada `push` (ver `.github/workflows/`).
+`dist/index.html` es la portada (sinopsis, dramatis personae, índice de cintas, advertencia);
+`dist/reader.html`, el lector. El sitio se publica en **GitHub Pages** con cada `push` (ver `.github/workflows/`).
 
 ## Una advertencia, que también es una invitación
 
-Ninguno de los dos que hablan en este libro tiene el menor interés en que lo creamos por completo.
-Léelo despacio. Vuelve atrás. La novela está construida para recompensar exactamente eso.
+Ninguna de las dos voces de estas cintas tiene el menor interés en que la creas del todo.
+Escúchalas despacio. Vuelve atrás. Todo fue sembrado antes de pudrirse.
 
 ---
 
-*Obra de ficción. Cualquier parecido entre estas voces y una voz viva —o entre esta confesión y la verdad— queda a cuenta del lector.*
+*Obra de ficción. Cualquier parecido entre estas voces y una voz viva —o entre esta confesión y la verdad— queda a cuenta de quien escucha.*

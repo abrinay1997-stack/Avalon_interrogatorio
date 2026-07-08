@@ -308,3 +308,25 @@ html, body {
 .book-scroll .stage.first-of-page::first-letter {
   font-size: inherit; float: none; padding-right: 0; color: inherit; font-weight: inherit; line-height: inherit;
 }
+
+/* --- Expediente sonoro en el lector paginado --- */
+.book-page .slate, .book-scroll .slate {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .72em;
+  line-height: 1.55;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  background: rgba(128, 128, 128, .06);
+  padding: 11px 15px;
+  margin: 0 0 1.6em;
+  text-align: left;
+  hyphens: none;
+}
+.book-page .slate em, .book-scroll .slate em { font-style: normal; color: var(--accent); }
+.book-page .rec, .book-scroll .rec {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .82em; letter-spacing: .02em; color: var(--accent-2); white-space: nowrap;
+}
