@@ -2,7 +2,7 @@
   "title": "El Falsete",
   "author": "Abrinay",
   "subtitle": "Una confesión no es lo contrario de una mentira",
-  "kicker": "Novela negra",
+  "kicker": "Pieza teatral en cuatro actos",
   "year": "2026",
   "epigraph": "«Nadie miente tan bien como quien ha aprendido a cantar. Uno pasa la vida entrenando la voz para que diga lo que la voz no siente.»",
   "dedication": "Para las que cantaron y no salieron en la fotografía.",
@@ -20,7 +20,8 @@
     { "name": "Leah Sorrel", "role": "La asistente. Lleva seis años ordenando las mentiras pequeñas para que las grandes se sostengan de pie." }
   ],
   "historicalNote": [
-    "«El Falsete» es una obra de ficción. No retrata a ninguna cantante viva ni muerta, ni a nadie que las haya representado; cualquier semejanza con una industria real es, precisamente, el asunto del libro y no una casualidad.",
-    "La novela transcurre, casi entera, en una sola habitación y en una sola noche. Todo lo demás —los estadios, los muertos, un pueblo minero galés al que ya nadie vuelve— existe únicamente en la voz de quienes lo cuentan. Conviene recordar, mientras se lee, que ninguno de los dos que hablan tiene el menor interés en que lo creamos por completo. Cada dato de estas páginas fue sembrado antes de florecer: quien vuelva atrás al terminar encontrará que la respuesta estuvo siempre delante, escrita con la letra de quien no quería que la leyéramos todavía."
+    "Escenario único: una sala sin ventanas. Una mesa de formica, dos sillas, una jarra de agua con dos vasos. Ni relojes ni grabadora a la vista; su ausencia es la primera acotación de la obra. La luz nunca cambia, salvo cuando el texto lo pide: en el teatro, como en un interrogatorio, oscurecer es también una manera de mentir.",
+    "Reparto: dos intérpretes en escena durante toda la pieza —AVALON y EL INTERROGADOR— y una tercera voz que solo se oye, grabada, la de un muerto. Todos los demás —una hermana, una madre, un manager, un pueblo minero galés al que ya nadie vuelve— existen únicamente en lo que estos dos dicen de ellos, y conviene recordar que ninguno de los dos tiene el menor interés en que les creamos del todo.",
+    "«El Falsete» es una obra de ficción; cualquier semejanza con una industria real es su asunto, no una casualidad. Está escrita para ser dicha en voz alta y para ser releída en silencio: cada dato fue sembrado antes de florecer, y quien vuelva a la primera escena al bajar el telón encontrará que la respuesta estuvo siempre delante, en boca de quien no quería que la entendiéramos todavía."
   ]
 }

@@ -272,3 +272,39 @@ html, body {
   .reader-bar-actions { gap: 3px; }
   .icon-btn { width: 34px; height: 34px; font-size: 13px; }
 }
+
+/* --- Composición teatral en el lector paginado --- */
+.book-page .line, .book-scroll .line {
+  text-align: left;
+  hyphens: none;
+  padding-left: 2.6em;
+  text-indent: -2.6em;
+  margin: 0 0 0.85em;
+}
+.book-page .stage, .book-scroll .stage {
+  text-align: left;
+  hyphens: none;
+  padding-left: 2.6em;
+  font-style: italic;
+  color: var(--ink-soft);
+  margin: 1.15em 0;
+}
+.book-page .cue, .book-scroll .cue {
+  font-family: var(--font-display);
+  text-transform: uppercase;
+  letter-spacing: .09em;
+  font-size: .78em;
+  font-weight: 700;
+  color: var(--accent);
+  margin-right: .5em;
+  white-space: nowrap;
+}
+.book-page em.dir, .book-scroll em.dir { font-style: italic; color: var(--ink-soft); }
+.book-page .stage em, .book-scroll .stage em { font-style: normal; }
+/* Sin capitular en una obra de teatro. */
+.book-page .line.first-of-page::first-letter,
+.book-scroll .line.first-of-page::first-letter,
+.book-page .stage.first-of-page::first-letter,
+.book-scroll .stage.first-of-page::first-letter {
+  font-size: inherit; float: none; padding-right: 0; color: inherit; font-weight: inherit; line-height: inherit;
+}

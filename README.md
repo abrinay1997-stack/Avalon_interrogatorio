@@ -2,11 +2,11 @@
 
 > *Una confesión no es lo contrario de una mentira.*
 
-Novela negra psicológica. Un solo escenario —una sala de interrogatorios sin ventanas— y una sola noche. Frente a frente, la cantante **Avalon Davies** y un hombre que no enciende la grabadora. Julian Vale, el manager que la inventó a los quince años, ha aparecido muerto. Pero esta no es la historia de un crimen: es la de dos personas que dominan el mismo oficio —hacer que las palabras signifiquen lo contrario de lo que dicen— jugando la partida de sus vidas.
+**Pieza teatral noir en cuatro actos.** Un solo escenario —una sala de interrogatorios sin ventanas— y una sola noche. Dos intérpretes: la cantante **Avalon Davies** y un hombre que no enciende la grabadora. (Una tercera voz, la de un muerto, solo se oye, grabada.) Julian Vale, el manager que la inventó a los quince años, ha aparecido muerto. Pero esto no es la historia de un crimen: es un duelo entre dos personas que dominan el mismo oficio —hacer que las palabras signifiquen lo contrario de lo que dicen— jugando la partida de sus vidas.
 
-El lector creerá tres veces haber descubierto al monstruo. Las tres se equivocará. Y al terminar, si vuelve a la primera página, encontrará que la respuesta estuvo siempre delante.
+Todo es diálogo. Todo es interrogatorio. Quien mira creerá tres veces haber descubierto al monstruo; las tres se equivocará. Y al bajar el telón, si vuelve a la primera escena, encontrará que la respuesta estuvo siempre delante.
 
-Prólogo · 12 capítulos · Epílogo.
+Prólogo · 12 escenas · Epílogo.
 
 ---
 
@@ -16,30 +16,31 @@ El texto vive en `content/`, separado por completo de su presentación:
 
 ```
 content/
-  book.json                 · metadatos, sinopsis, dramatis personae, nota del autor
-  01-la-sala/               · Parte I  — La Sala
+  book.json                 · metadatos, sinopsis, dramatis personae, puesta en escena
+  01-la-sala/               · Acto I  — La Sala
     part.json
     00-prologo.md
     01-el-vaso-de-agua.md
     02-el-hombre-que-me-invento.md
     03-la-hermana-en-la-sombra.md
-  02-el-falsete/            · Parte II — El Falsete
+  02-el-falsete/            · Acto II — El Falsete
     ...
-  03-el-nombre-equivocado/  · Parte III — El Nombre Equivocado
+  03-el-nombre-equivocado/  · Acto III — El Nombre Equivocado
     ...
-  04-lo-que-enterramos/     · Parte IV — Lo que Enterramos
+  04-lo-que-enterramos/     · Acto IV — Lo que Enterramos
     ...
     99-epilogo.md
 ```
 
-Cada capítulo es un archivo Markdown con un pequeño encabezado (`title`, `epigraph`, `author`).
-Los epígrafes no son adorno: son documentos —titulares, atestados, letras de canciones, mensajes— que enmarcan cada capítulo y que, releídos al final, dicen más de lo que parecía.
+Cada escena es un archivo Markdown con un pequeño encabezado (`title`, `epigraph`, `author`).
+Los epígrafes no son adorno: son documentos —titulares, atestados, letras de canciones, mensajes de voz— que enmarcan cada escena y que, releídos al final, dicen más de lo que parecía.
 
-Convenciones del texto:
+Convenciones del texto (composición teatral):
 
-- Un párrafo por bloque, separados por una línea en blanco.
-- `*cursiva*` para el énfasis y la voz interior.
-- Una línea con `***` marca un corte de escena.
+- **Pie de personaje**: una línea que empieza por `NOMBRE.—` se compone con el nombre en versalitas y el parlamento a continuación. En escena solo hablan `AVALON.—` y `EL INTERROGADOR.—`; la voz grabada del muerto es `VOZ DE VALE.—`.
+- **Acotaciones**: un párrafo entero entre paréntesis es una acotación (cursiva, sangrada). Entre paréntesis dentro de un parlamento, una acotación breve `(así)`.
+- `*cursiva*` para lo que se canta o se subraya.
+- Una línea con `***` marca un corte de escena; los actos y las escenas los da la estructura de carpetas.
 
 ## Cómo leerlo
 
@@ -50,8 +51,8 @@ node scripts/build.mjs      # genera /dist
 npm run serve               # construye y sirve en local
 ```
 
-Abre `dist/index.html` para la portada (sinopsis, personajes, índice, nota del autor)
-o `dist/reader.html` para leer como un libro.
+Abre `dist/index.html` para la portada (sinopsis, dramatis personae, índice, puesta en escena)
+o `dist/reader.html` para leer la obra en modo libro.
 
 El sitio se publica solo en **GitHub Pages** con cada `push` (ver `.github/workflows/`).
 

@@ -4,70 +4,78 @@ epigraph: «Yo no descubrí a Avalon Davies. La escribí. Es una diferencia impo
 author: Abrinay
 ---
 
-El hombre me sirvió el agua antes de sentarse, y por el modo en que la sirvió supe casi todo lo que necesitaba saber de él.
+(La misma sala. AVALON, sentada, las manos quietas sobre la mesa. EL INTERROGADOR llena un vaso de agua: lo deja a dos dedos del borde, ni una gota más, y lo empuja hacia ella. Se sienta. La mira como se mira el mar antes de meterse: calculando la temperatura, no la belleza. Un silencio largo.)
 
-No llenó el vaso hasta arriba. Lo dejó a dos dedos del borde, la medida exacta de quien ha visto temblar muchas manos en muchas mesas y sabe que un vaso lleno es una humillación esperando a ocurrir. Era una crueldad disfrazada de delicadeza, o una delicadeza que había aprendido a parecer crueldad; con cierta clase de hombres no se distinguen las dos cosas hasta que es tarde. Empujó el vaso hacia mí sin decir nada, se sentó, cruzó las manos sobre la mesa y me miró como se mira el mar antes de meterse: calculando la temperatura, no la belleza.
+EL INTERROGADOR.— Tiene usted las manos muy quietas.
 
-—Tiene usted las manos muy quietas —dijo. Fue lo primero.
+AVALON.— Es tarde. Estoy cansada.
 
-—Es tarde —contesté—. Estoy cansada.
+EL INTERROGADOR.— La gente cansada se toca la cara. Se frota los ojos. (Pausa.) Usted no.
 
-—La gente cansada se toca la cara. Se frota los ojos. —Hizo una pausa que no era un silencio, sino un objeto que puso encima de la mesa para que yo lo mirara—. Usted no.
+(Ella bebe un sorbo. Despacio. Le da algo que mirar que no sea lo que piensa.)
 
-Bebí un sorbo, despacio, para darle algo que mirar que no fuera lo que estaba pensando.
+AVALON.— Llevo veinte años en escenarios. Se aprende pronto que la primera fila ve lo que hacen tus manos antes que lo que hace tu cara. Una las deja quietas. No es frialdad. Es entrenamiento. (Le sostiene la mirada.) Usted debería saberlo. También lo tiene.
 
-—Llevo veinte años en escenarios —dije—. Me enseñaron muy pronto que el público de la primera fila ve lo que hacen tus manos antes que lo que hace tu cara. Una aprende a dejarlas quietas. No es frialdad. Es entrenamiento. —Le sostuve la mirada el tiempo justo—. Usted debería saberlo. También lo tiene.
+(Algo se mueve detrás de los ojos de él, un pez bajo el hielo, y vuelve a quedarse quieto. No le ha gustado que le devuelvan el espejo.)
 
-No sonrió, pero algo se movió detrás de sus ojos, un pez bajo el hielo, y volvió a quedarse quieto. Primera regla que aprendí de él en esa sala: no le gustaba que le devolvieran el espejo. La usé mucho después.
+EL INTERROGADOR.— Cuénteme lo de esta noche.
 
-Era un hombre de unos cuarenta y tantos, con esa delgadez de los que no comen por placer sino por no morirse, y una cara que en otra vida podría haber sido guapa y que alguien, o algo, había descolgado por dentro. Vestía como un funcionario y se movía como un cazador, y esas dos cosas juntas, en una habitación sin grabadora y a las cuatro de la mañana, componían un problema para el que yo todavía no tenía nombre.
+AVALON.— ¿Por dónde quiere que empiece?
 
-—Cuénteme lo de esta noche —dijo.
+EL INTERROGADOR.— Por donde usted quiera. Empezar es lo más sincero que hace la gente. Después ya se corrige.
 
-—¿Por dónde quiere que empiece?
+AVALON.— Volví pasada la medianoche. Una cena que se alargó. Leah, mi asistente, se había ido a las once; la vi meterse en el coche. La casa estaba a oscuras, y no me extrañó: Julian tenía llave desde hace años. Entraba y salía como el dueño de una cosa que en parte era suya. En parte yo era una cosa suya. Subí. La puerta del estudio estaba entornada. Y él estaba allí. En el suelo, junto al piano.
 
-—Por donde usted quiera. —Se recostó—. Empezar es lo más sincero que hace la gente. Después ya se corrige.
+EL INTERROGADOR.— ¿Gritó?
 
-Era bueno. Tuve que reconocérselo en algún cajón privado del pecho. Le di lo que había venido a buscar, o lo que yo quería que creyera que había venido a buscar, que no es lo mismo, aunque suenan igual.
+AVALON.— No. Me quedé en la puerta. Supe enseguida que estaba muerto. Y esperé.
 
-Le conté que había vuelto a casa pasada la medianoche, después de una cena que se había alargado. Que Leah, mi asistente, se había ido sobre las once. Que la casa estaba a oscuras y que eso no me extrañó, porque Julian tenía llave desde hacía años y entraba y salía como el dueño de una cosa que en parte era suya, porque en parte yo era una cosa suya. Que lo encontré en el estudio, en el suelo, junto al piano. Que no grité. Le dije eso también, porque era verdad y porque la verdad, colocada en el sitio exacto, es la mejor coartada del mundo: no grité. Me quedé de pie en la puerta un tiempo que no sabría medir, mirándolo, esperando —esto también se lo dije— a que se levantara y me dijera que era una prueba, una de sus pruebas, porque toda mi vida con Julian Vale había sido una larga sucesión de pruebas y yo había aprendido a no reaccionar hasta saber cuál era la respuesta correcta.
+EL INTERROGADOR.— ¿A qué?
 
-—¿Y cuál era la respuesta correcta esta vez? —preguntó.
+AVALON.— A que se levantara y me dijera que era una prueba. Una de sus pruebas. Toda mi vida con Julian Vale fue una larga sucesión de pruebas. Aprendí a no reaccionar hasta saber cuál era la respuesta correcta.
 
-—Todavía no lo sé —dije—. Por eso estoy tan tranquila. No he llegado al final de la prueba.
+EL INTERROGADOR.— ¿Y cuál era, esta vez?
 
-Anotó algo. No en un cuaderno: no había cuaderno. Anotó algo en el sitio donde los hombres como él anotan, ese archivo interior que no se puede pedir por orden judicial, y me di cuenta, con un pequeño frío en la nuca, de que llevaba razón la parte de mí que se había fijado en la grabadora ausente. Aquí no se estaba levantando ningún acta. Aquí se estaba construyendo otra cosa.
+AVALON.— Todavía no lo sé. Por eso estoy tan tranquila. No he llegado al final de la prueba.
 
-—Usted quería a Vale —dijo. No era una pregunta.
+(Él no anota nada. No hay cuaderno. Guarda lo que oye en otro sitio.)
 
-—Lo odiaba —dije—. Que es una forma de quererlo que dura más.
+EL INTERROGADOR.— Usted quería a Vale.
 
-—Explíquemelo.
+AVALON.— Lo odiaba. Que es una forma de quererlo que dura más.
 
-—No.
+EL INTERROGADOR.— Explíquemelo.
 
-Fue la primera vez que le dije que no, y lo hice a propósito, porque llevaba veinte minutos dándole todo lo que pedía y un animal que solo recibe deja de tener hambre, y yo necesitaba que siguiera teniendo hambre, que siguiera inclinado hacia mí sobre la mesa, porque un hombre inclinado hacia ti es un hombre que todavía no ha decidido lo que va a hacer contigo.
+AVALON.— No.
 
-—No —repetí, más suave—. Eso no se lo voy a explicar a un desconocido a las cuatro de la mañana. Le he contado cómo lo encontré. Le he contado la hora. Le he contado quién tenía llave. Le estoy dando los hechos, que es lo que se le da a la policía. Lo otro, lo de por qué se puede odiar a un hombre durante veinte años y llorarlo cuando muere, eso es mío. Eso no consta en ningún atestado.
+(Es la primera vez que le dice que no. Lo hace a propósito. Un animal que solo recibe deja de tener hambre.)
 
-Y entonces él hizo lo que hacía cuando ganaba, que era no hacer nada. Se quedó quieto y me dejó oír mis propias últimas palabras rebotar en la sala hasta que me di cuenta yo sola de lo que acababa de decir. Porque yo había dicho *la policía*. Había dicho *atestado*. Le había ofrecido, sin querer, el molde de la conversación que yo daba por supuesta, y él lo había recogido del aire con dos dedos, como se recoge un pelo de una solapa, y ahora lo sostenía entre los dos.
+AVALON.— Le he contado cómo lo encontré. La hora. Quién tenía llave. Le doy los hechos: es lo que se le da a la policía. Lo otro —por qué se puede odiar a un hombre veinte años y llorarlo cuando muere— es mío. Eso no consta en ningún atestado.
 
-—¿Le he dicho yo que soy policía? —preguntó.
+(Él no hace nada. Es lo que hace cuando gana: nada. Deja que ella se oiga a sí misma. Ella oye, tarde, lo que ha dicho.)
 
-El agua del vaso estaba perfectamente quieta. Me obligué a que las manos siguieran su ejemplo.
+EL INTERROGADOR.— ¿Le he dicho yo que soy policía?
 
-—Lleva usted zapatos de policía —dije—. Y me ha traído aquí un coche sin distintivos con un conductor que no ha abierto la boca. Y me ha sentado en una sala de interrogatorios. Uno saca conclusiones.
+(El agua del vaso está perfectamente quieta. Ella se obliga a que las manos también.)
 
-—Uno saca conclusiones —repitió, saboreando la frase como si fuera mía y me la devolviera usada—. Sí. Es lo que hace la gente. Saca conclusiones y después construye toda una vida encima, y no vuelve a mirar los cimientos ni una sola vez, y así se puede vivir cincuenta años sobre un error sin notar nunca el frío que sube del sótano. —Se levantó, fue hasta la puerta, comprobó algo en el pomo que yo no vi, y volvió a sentarse—. Esta sala es de la policía, sí. Los zapatos también. El coche también. Todo es de la policía menos una cosa.
+AVALON.— Lleva zapatos de policía. Y me ha traído un coche sin distintivos con un conductor que no ha abierto la boca. Y me ha sentado en una sala de interrogatorios. Uno saca conclusiones.
 
-Esperé. Aprendí de mi madre que la que pregunta primero, pierde.
+EL INTERROGADOR.— Uno saca conclusiones. (Saborea la frase como si fuera de ella y se la devolviera usada.) Sí. Y construye encima toda una vida, y no vuelve a mirar los cimientos, y así se puede vivir cincuenta años sobre un error sin notar el frío que sube del sótano.
 
-—Menos que nadie sabe que está usted aquí —dijo—. No hay número de diligencia. No he llamado a su abogado, y usted, curiosamente, tampoco lo ha pedido, lo cual dice de usted más que cualquier cosa que lleve dicha esta noche. Su teléfono está en mi bolsillo desde que subió al coche. Si mañana alguien pregunta dónde estuvo Avalon Davies esta madrugada, no habrá un solo papel en el mundo que diga que estuvo conmigo. —Sirvió agua en su propio vaso, por fin, y no bebió—. Así que le propongo que dejemos de fingir que esto es lo que usted creía que era. No la ha traído aquí el Estado, señorita Davies. La he traído yo. Y yo no tengo prisa, ni superiores, ni horario, ni el menor interés en el hombre que hay muerto en su estudio.
+(Se levanta. Va a la puerta. Comprueba algo en el pomo que no vemos. Vuelve a sentarse.)
 
-Fue la primera de las tres veces que aquella noche creí entender qué clase de peligro tenía delante. Las tres me equivoqué. Pero aquella primera vez fue casi un alivio, porque un peligro sin reglas es también un peligro sin testigos, y yo había hecho toda mi carrera —toda mi vida— de lo que era capaz cuando nadie tomaba nota.
+EL INTERROGADOR.— Esta sala es de la policía. Los zapatos, también. El coche, también. Todo es de la policía menos una cosa.
 
-—Entonces, ¿qué es lo que le interesa? —pregunté.
+(Silencio. Ella no pregunta. Aprendió de su madre que la que pregunta primero, pierde.)
 
-Me miró como se mira, desde la orilla, a alguien que todavía no sabe que ha empezado a ahogarse.
+EL INTERROGADOR.— Que nadie sabe que está usted aquí. No hay número de diligencia. No he llamado a su abogado; usted, curiosamente, tampoco lo ha pedido, y eso dice de usted más que todo lo que ha contado esta noche. Su teléfono está en mi bolsillo desde que subió al coche. Si mañana alguien pregunta dónde estuvo Avalon Davies esta madrugada, no habrá un papel en el mundo que diga que estuvo conmigo. (Se sirve por fin su propio vaso. No bebe.) No la ha traído aquí el Estado, señorita Davies. La he traído yo. Y no tengo prisa, ni superiores, ni horario, ni el menor interés en el hombre que hay muerto en su estudio.
 
-—La otra muerte —dijo—. La que sí quería usted.
+(Ella lo mira de otro modo. Un peligro sin reglas es también un peligro sin testigos. Casi es un alivio.)
+
+AVALON.— Entonces, ¿qué le interesa?
+
+(Él la mira como se mira, desde la orilla, a quien todavía no sabe que ha empezado a ahogarse.)
+
+EL INTERROGADOR.— La otra muerte. La que sí quería usted.
+
+(Oscuro.)

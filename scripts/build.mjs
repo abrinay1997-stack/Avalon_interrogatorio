@@ -51,11 +51,26 @@ function renderMarkdownBlocks(body) {
     .map((block) => {
       const trimmed = block.trim();
       if (trimmed === "***") return '<div class="scene-break">⁘</div>';
-      const escaped = trimmed
+      let escaped = trimmed
         .replace(/&/g, "&amp;")
         .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/\*(.+?)\*/g, "<em>$1</em>");
+        .replace(/>/g, "&gt;");
+      // Acotación en bloque: el párrafo entero va entre paréntesis y no lleva
+      // pie de personaje. Se compone en cursiva, sangrada.
+      if (/^\([\s\S]*\)$/.test(escaped) && !/\.—/.test(escaped)) {
+        const inner = escaped.replace(/\*(.+?)\*/g, "<em>$1</em>");
+        return `<p class="stage">${inner}</p>`;
+      }
+      // Acotaciones internas: cualquier (…) dentro de un parlamento va en cursiva.
+      escaped = escaped.replace(/\(([^)]*)\)/g, '<em class="dir">($1)</em>');
+      // Énfasis / voz interior.
+      escaped = escaped.replace(/\*(.+?)\*/g, "<em>$1</em>");
+      // Pie de personaje: «NOMBRE.— parlamento».
+      const cue = escaped.match(/^([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ .]{0,30}?)\.—\s*/);
+      if (cue) {
+        const rest = escaped.slice(cue[0].length);
+        return `<p class="line"><span class="cue">${cue[1].trim()}.</span> ${rest}</p>`;
+      }
       return `<p>${escaped}</p>`;
     });
 }
@@ -173,7 +188,7 @@ function coverHTML() {
       <a href="#sinopsis">Sinopsis</a>
       <a href="#personajes">Personajes</a>
       <a href="#indice">Índice</a>
-      <a href="#nota-historica">Nota del autor</a>
+      <a href="#nota-historica">Puesta en escena</a>
     </nav>
   </section>`;
 }
@@ -233,7 +248,7 @@ function historicalHTML() {
   if (!book.historicalNote || !book.historicalNote.length) return "";
   const paras = book.historicalNote.map((p) => `    <p>${p}</p>`).join("\n");
   return `<section class="matter historical" id="nota-historica">
-    <h2>Nota del autor</h2>
+    <h2>Nota de puesta en escena</h2>
 ${paras}
   </section>`;
 }
