@@ -1,0 +1,26 @@
+{
+  "title": "El Falsete",
+  "author": "Abrinay",
+  "subtitle": "Una confesión no es lo contrario de una mentira",
+  "kicker": "Novela negra",
+  "year": "2026",
+  "epigraph": "«Nadie miente tan bien como quien ha aprendido a cantar. Uno pasa la vida entrenando la voz para que diga lo que la voz no siente.»",
+  "dedication": "Para las que cantaron y no salieron en la fotografía.",
+  "contentWarning": "Contiene referencias a abuso, adicción y muerte. La violencia explícita es escasa; el daño, casi siempre, es de otra clase.",
+  "synopsis": [
+    "Avalon Davies llena estadios en tres continentes y no ha dormido una noche entera en once años. Hoy, poco antes del amanecer, la conducen a una habitación sin ventanas donde un hombre que no enciende la grabadora ni enseña la placa le ofrece un vaso de agua y una sola pregunta. Julian Vale —el manager que la inventó cuando ella tenía quince años— ha aparecido muerto en su casa. El hombre de la sala dice que solo quiere entender qué ocurrió. Miente, y ella lo sabe antes que nosotros.",
+    "Lo que sigue no es un interrogatorio: es un duelo entre dos personas que dominan el mismo oficio, el de hacer que las palabras signifiquen lo contrario de lo que dicen. Cada respuesta reabre la anterior. Cada confesión abre una duda nueva. El lector creerá tres veces haber descubierto al monstruo, y las tres veces se equivocará, porque la verdadera pregunta de esta novela no es quién mató a Julian Vale, sino cuál de las dos hermanas Pryce está diciendo la verdad —y si Avalon Davies, que ha interpretado a tantas mujeres, recuerda todavía cómo era ser una sola."
+  ],
+  "dramatisPersonae": [
+    { "name": "Avalon Davies", "role": "La voz de una generación. Tres continentes agotan sus entradas en una hora. Nadie la conoce de verdad. Ni siquiera, tal vez, ella misma." },
+    { "name": "El hombre de la sala", "role": "Interroga sin prisa, sin placa a la vista y sin grabadora encendida. Cree que las mejores respuestas son preguntas. Todavía no ha dicho su nombre." },
+    { "name": "Julian Vale", "role": "El hombre que inventó a Avalon Davies. La descubrió a los quince años y no volvió a soltarla. Esta madrugada ha aparecido muerto en casa de ella." },
+    { "name": "Cassandra Pryce", "role": "La hermana mayor. Escribió las canciones que el mundo todavía canta sin saber de quién son. Se quitó la vida hace diez años. O eso dice la lápida." },
+    { "name": "Vivian Pryce", "role": "La madre. Sabía distinguir de un solo vistazo cuál de sus dos hijas servía para la fotografía y cuál para el disco." },
+    { "name": "Leah Sorrel", "role": "La asistente. Lleva seis años ordenando las mentiras pequeñas para que las grandes se sostengan de pie." }
+  ],
+  "historicalNote": [
+    "«El Falsete» es una obra de ficción. No retrata a ninguna cantante viva ni muerta, ni a nadie que las haya representado; cualquier semejanza con una industria real es, precisamente, el asunto del libro y no una casualidad.",
+    "La novela transcurre, casi entera, en una sola habitación y en una sola noche. Todo lo demás —los estadios, los muertos, un pueblo minero galés al que ya nadie vuelve— existe únicamente en la voz de quienes lo cuentan. Conviene recordar, mientras se lee, que ninguno de los dos que hablan tiene el menor interés en que lo creamos por completo. Cada dato de estas páginas fue sembrado antes de florecer: quien vuelva atrás al terminar encontrará que la respuesta estuvo siempre delante, escrita con la letra de quien no quería que la leyéramos todavía."
+  ]
+}
