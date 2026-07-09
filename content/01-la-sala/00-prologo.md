@@ -6,7 +6,7 @@ author: Abrinay
 
 [[ ANTES DE LA PRIMERA CINTA ]]
 
-EL ARCHIVERO.— Lo que va a oír no debería existir. Son trece cintas que un man grabó sin permiso, en un cuarto donde le había jurado a una muchacha que no había ninguna grabadora prendida. Las tengo yo. No le voy a decir cómo. Solo esto, antes de arrancar: en algún punto de esta noche, uno de los dos confiesa un asesinato. Le va a costar más de lo que cree averiguar cuál de los dos. Y cuál de todos.
+EL ARCHIVERO.— Si estás oyendo esto, es que todavía no lo han bajado. Aprovecha. Son trece cintas que un policía grabó a escondidas, en un cuarto donde le juró a una pelá de veintidós años que no había ninguna grabadora prendida. Cómo llegaron a mí no te importa. A la gente que me las quiere quitar, sí. Por eso no lo digo, y por eso hablo bajito. Solo esto, antes de arrancar: en algún punto de esta noche, uno de los dos confiesa un asesinato de verdad. Y te va a costar más de lo que crees averiguar cuál de los dos. Y cuál de todos.
 
 (Un chasquido. Cinta vieja. Retazos, empalmados sin orden. Primero, bien deformada, con la voz metida en un autotune que la vuelve casi metálica, una canción. La canta ella.)
 

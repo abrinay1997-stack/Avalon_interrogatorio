@@ -44,6 +44,6 @@ La cuenta programada de Abrinay se publicó, en efecto, aquel viernes. Internet 
 —
 Avalon Davies es hoy, por fin, muy famosa. Cierra sus conciertos con KESOLO, y decenas de miles de personas le cantan de vuelta, palabra por palabra, un homicidio, y lloran de la emoción. De la voz que le hace las preguntas en estas cintas no se sabe nada más. ]]
 
-EL ARCHIVERO.— Yo soy el que encontró las cintas. Llevo tres años transcribiéndolas. Empecé buscando quién era el monstruo. (Pausa.) Termino cada noche revisando que la puerta de mi casa esté cerrada, y ya no sé del todo por qué. La pongo, ¿sabe? La canción. A veces, tarde, sin querer, me descubro tarareándola. Escúchela usted. Capaz duerme mejor que yo.
+EL ARCHIVERO.— Yo soy el que subió las cintas. Tres veces. Tres veces me las bajaron antes del amanecer, con una orden firmada por un bufete que no sale en ningún registro. La cuarta vez la estás oyendo tú. No sé cuánto va a durar donde quiera que estés. Empecé buscando quién era el monstruo. (Pausa.) Termino cada noche revisando que la puerta esté cerrada, y ya no sé del todo por qué. La pongo, la canción. A veces, tarde, sin querer, me descubro tarareándola. Ahora te toca a ti: cópialo, súbelo a donde puedas, antes de que vengan también por esto. Yo ya no puedo más. Y capaz tú duermes mejor que yo. Yo hace rato que no.
 
 (Un clic. Silencio de cinta muerta.)
