@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 03 · 04:19 h
    A partir de aquí la respiración del interrogador baja de ritmo. Consta. ]]
 
+EL ARCHIVERO.— Ahora hablan de la muerta. Póngale usted un nombre en la cabeza, el que crea. Guárdelo. Al final va a tener que borrarlo, y le va a doler más de lo que espera borrar un nombre que ni siquiera era el suyo.
+
 (Sobre la mesa, ahora, un roce de cartón: una carpeta que antes no estaba. No la abre todavía.)
 
 AVALON.— Todo el mundo, en mi vida, ha tenido varios nombres. Yo tengo tres. Vale tenía cinco, según a quién debiera dinero. No sé por cuál me llamó al morir, y si un hombre me deja un último mensaje suplicando, lo último que me importa es qué sílabas eligió para hacerlo.

@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 13 · 06:41 h · última de la serie
    Amanece fuera. Aquí dentro la luz no cambia. ]]
 
+EL ARCHIVERO.— La última. Después de esta no queda más cinta, pero sí una pregunta, y me la va a dejar a mí, igual que me la dejó ella. Aguántela hasta el final.
+
 (El teléfono, encendido, en el centro de la mesa. Entre un dedo y una pantalla, diez años y dos tumbas. Ninguno de los dos lo toca. La grabadora corre. Es ella quien habla; el silencio es el arma de él, no la suya.)
 
 AVALON.— Puede mandarlo. Está en su derecho; es más, está en lo justo. Si aprieta ahí, mañana el mundo sabrá que a la que llora en su tumba la aplaude en los estadios, y que al policía que lo consintió lo compró un manager con una firma. Las dos hermanas Pryce dejarán por fin de existir a la vez, que es lo único que no hemos hecho nunca juntas: existir a la vez. Le devolverá a Ava su nombre. Diez años tarde, pero se lo devolverá. Y a cambio solo perderá una cosa. La única que le ha quedado de ella. Me perderá a mí.
@@ -41,3 +43,7 @@ Las trece cintas se hallaron en un piso de alquiler a nombre de E. Vaughan, ex i
 La mujer conocida como Avalon Davies sigue agotando entradas en tres continentes. En su última gira cerró, todas las noches, con «Hermana». Nadie la ha vuelto a interrogar.
 —
 De la voz que le hace las preguntas en estas cintas no se sabe nada más. ]]
+
+EL ARCHIVERO.— Yo soy el que encontró las cintas. Llevo tres años transcribiéndolas. Empecé buscando quién era el monstruo. (Pausa.) Termino cada noche comprobando que la puerta de mi casa está cerrada, y ya no sé del todo por qué. Escúchelas usted. A lo mejor duerme mejor que yo.
+
+(Un clic. Silencio de cinta muerta.)

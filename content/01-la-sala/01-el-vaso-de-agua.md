@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 01 · 03:52 h · sala 3, sin número de diligencia
    Dos voces. La segunda entra ahora. ]]
 
+EL ARCHIVERO.— Lo primero que hará él es servirle un vaso de agua y decirle que no hay grabadora. Escuche esa parte con cuidado. Es lo último que uno de los dos va a decir esta noche completamente en serio.
+
 (El fluorescente zumba. Se abre una puerta; se cierra con ese golpe sordo de las puertas que están forradas por dentro para que no salga el ruido. Pasos. Una jarra. Agua cayendo en un vaso, y parando antes de tiempo: la deja a dos dedos del borde, ni una gota más, la medida exacta de quien ha visto temblar muchas manos en muchas mesas. El vaso se arrastra por la formica hacia ella. Una silla. Él se sienta. Durante un rato solo se oye el fluorescente y dos respiraciones tanteándose.)
 
 EL INTERROGADOR.— Tiene usted las manos muy quietas.

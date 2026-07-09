@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 07 · 05:17 h
    El técnico que catalogó estas cintas anota, aquí, que bajó el volumen. No dice por qué. ]]
 
+EL ARCHIVERO.— En algún punto de esta cinta, ella confiesa. Va a sentir usted alivio. No se fíe del alivio: es la parte del anzuelo que no lleva púa.
+
 (La grabadora sisea. [3 s de cinta muerta.] Él la deja posarse antes de contestar.)
 
 EL INTERROGADOR.— (Muy bajo, casi para sí.) Huele a algo aquí dentro. Lleva toda la noche. Debajo de la lejía. ¿Lo huele usted?

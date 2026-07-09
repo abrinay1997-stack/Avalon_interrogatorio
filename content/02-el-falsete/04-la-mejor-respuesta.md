@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 04 · 04:33 h
    La hoja de la nota sigue sobre la mesa. En la grabación se oye, cada tanto, cómo alguien la roza con un dedo. ]]
 
+EL ARCHIVERO.— En esta cinta, el que pregunta comete su primer error. A mí me costó tres escuchas oírlo. Usted lo va a oír a la primera, porque yo ya se lo he dicho. Esa es la única diferencia entre él y usted: a usted alguien lo está avisando.
+
 AVALON.— No lloro delante de desconocidos por la misma razón que no me desnudo delante de ellos: lo que se enseña gratis deja de valer. Usted, que ha hecho de mirar a la gente su oficio, debería agradecérmelo. Le doy la versión difícil. La que hay que ganarse.
 
 EL INTERROGADOR.— Le estoy dando yo muchas cosas esta noche. Un móvil. Una víctima. Una hermana muerta con la mano equivocada. Y a cambio recibo frases. Buenas frases. Pero frases.

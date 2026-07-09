@@ -8,6 +8,8 @@ author: Abrinay
    El teléfono del muerto queda encendido sobre la mesa durante toda la cinta.
    Ninguno de los dos lo apaga. ]]
 
+EL ARCHIVERO.— Escuche lo que ella cuenta de su madre y de las dos voces. Es el único momento de toda la noche en que le dice la verdad entera. No parece la verdad. Nunca lo parece.
+
 AVALON.— No le voy a decir quién estaba sentado a ese piano. Todavía no. Y no porque no tenga respuesta, sino porque usted no está preparado para oírla. Le pasaría lo que a quien abre en canal un regalo antes de tiempo: se queda con lo de dentro y sin la fiesta. Pero le voy a dar otra cosa, que le hace más falta. Le voy a explicar por qué esa pregunta —quién tocaba— no tiene, en mi familia, la respuesta sencilla que espera.
 
 EL INTERROGADOR.— La escucho.
@@ -36,7 +38,7 @@ EL INTERROGADOR.— ¿Sabe qué es lo terrible de lo que me acaba de contar? No 
 
 EL INTERROGADOR.— Usted me ha contado esta noche, con mucho dolor, que su hermana murió hace diez años. Y le he creído, porque quería creerle, que es el peor motivo del mundo para creer a alguien. Así que permítame la pregunta que llevo diez años sin poder hacerle a nadie, porque no había a quién.
 
-(Pausa. El fluorescente.)
+(Pausa. [6 s.] Solo el fluorescente, y las dos respiraciones.)
 
 EL INTERROGADOR.— ¿Cómo sabe usted que la que murió fue ella?
 

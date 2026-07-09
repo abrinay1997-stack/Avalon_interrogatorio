@@ -8,6 +8,8 @@ author: Abrinay
    En esta cinta se reproduce, dentro de la sala, un archivo de audio ajeno.
    Se ha respetado. ]]
 
+EL ARCHIVERO.— Aquí, dentro de la sala, se reproduce la voz de un hombre que a esa hora ya llevaba muerto un buen rato. No suba el volumen en la parte del piano. Se lo pido por experiencia.
+
 (La grabadora sisea. [hueco de 2 s.] Él tarda en volver de donde ella lo ha mandado. Cuando habla, la voz se ha vuelto lisa otra vez, blindada.)
 
 EL INTERROGADOR.— Cuénteme lo de esta noche otra vez. Desde el principio. Con calma. Ahora sí tengo tiempo de escucharla bien.

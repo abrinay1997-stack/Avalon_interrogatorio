@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 10 · 06:00 h
    Seis de la mañana. En algún lugar sobre esta sala, la ciudad empieza. Aquí dentro no entra. ]]
 
+EL ARCHIVERO.— Esta es la cinta por la que existe todo lo demás. La he escuchado más veces de las que voy a reconocer. Si va a dejarlo, déjelo antes de esta. Después ya no se puede volver.
+
 AVALON.— No. No lo sabe. Lleva toda la noche sin saberlo. No va a saberlo ahora solo porque le convenga.
 
 EL INTERROGADOR.— Llevo toda la noche sabiéndolo y negándomelo, que no es lo mismo que no saber. Es peor.

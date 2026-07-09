@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 02 · 04:07 h · continúa
    Sin interrupción reseñable respecto de la anterior. ]]
 
+EL ARCHIVERO.— Aquí ella empieza a contarle su vida. Se la he oído contar nueve veces, entre estas cintas y viejas entrevistas, y nunca dos iguales. No le corrija usted las diferencias. Las diferencias son el mapa.
+
 (El zumbido. Un vaso que ella deja en la mesa. Cuando habla, la voz ha bajado de temperatura.)
 
 AVALON.— «La otra muerte.» Se refiere a mi hermana.

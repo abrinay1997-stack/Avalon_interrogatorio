@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 11 · 06:14 h
    Es la cinta más larga. Es también en la que más silencios hay. ]]
 
+EL ARCHIVERO.— Ella va a contar aquella otra noche de dos maneras, y le va a advertir que una es mentira. Esa parte se la creo. Lo que no sé, lo que me quita el sueño, es si ella sabe cuál.
+
 (Cuando deja de llorar, en la grabación se le oye pedir la noche. La de verdad. Ya no le queda policía en la voz; es la de un hombre que necesita saber cómo murió la única mujer a la que quiso.)
 
 AVALON.— Se la voy a dar. Pero créame una cosa, aunque no me crea ninguna otra de esta noche: lo que sigue lo he contado ya de dos maneras. A mí misma. A oscuras. Diez años de dos versiones, repetidas tantas veces que ya no sé cuál recuerdo y cuál me he aprendido. Le voy a dar las dos. Y una es mentira. Y no le voy a decir cuál, porque no lo sé, y porque el día que lo supiera con certeza dejaría de poder levantarme por las mañanas.

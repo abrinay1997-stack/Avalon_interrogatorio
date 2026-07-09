@@ -80,8 +80,12 @@ function renderMarkdownBlocks(body) {
       // Pie de personaje: «NOMBRE.— parlamento».
       const cue = escaped.match(/^([A-ZÁÉÍÓÚÑÜ][A-ZÁÉÍÓÚÑÜ .]{0,30}?)\.—\s*/);
       if (cue) {
+        const name = cue[1].trim();
         const rest = escaped.slice(cue[0].length);
-        return `<p class="line"><span class="cue">${cue[1].trim()}.</span> ${rest}</p>`;
+        // La voz de encuadre (el archivero / locutor) vive fuera de la sala.
+        const host = /^(EL ARCHIVERO|VOZ EN OFF|LOCUTOR)$/.test(name);
+        const cls = host ? "line host" : "line";
+        return `<p class="${cls}"><span class="cue">${name}.</span> ${rest}</p>`;
       }
       return `<p>${escaped}</p>`;
     });

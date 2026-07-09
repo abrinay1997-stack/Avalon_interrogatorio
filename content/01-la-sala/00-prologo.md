@@ -4,6 +4,22 @@ epigraph: «Canté tu nombre tantas veces que olvidé que no era el mío.» — 
 author: Abrinay
 ---
 
+[[ ANTES DE LA PRIMERA CINTA ]]
+
+EL ARCHIVERO.— Lo que va a oír no debería existir. Son trece cintas que un hombre grabó sin permiso, en un cuarto donde le había jurado a una mujer que no había ninguna grabadora encendida. Las tengo yo. No le voy a decir cómo. Solo esto, antes de empezar: en algún punto de esta noche, uno de los dos confiesa un asesinato. Le va a costar más de lo que cree averiguar cuál de los dos. Y cuál de todos.
+
+(Un chasquido. Cinta vieja. Retazos, empalmados sin orden, de lo que viene mucho después. Como quien le enseña tres fotos de un incendio antes de decirle de dónde salió la cerilla.)
+
+VOZ DE VALE.— (Degradada. Un hombre mayor, aterrado.) No lo hagas. Por favor. Yo nunca se lo conté a nadie. [la cinta salta]
+
+AVALON.— (En otro punto de la noche. Tranquila, casi con ternura.) Voy a confesarle un asesinato antes de que salga el sol. [corte] Lo que ni él ni tú sabéis todavía es cuál de todos.
+
+EL INTERROGADOR.— (Casi inaudible, bajo la estática.) ...no pienso llamar a nadie hasta que me diga cuál de las dos hermanas Pryce se está bebiendo mi agua. [fin del fragmento]
+
+EL ARCHIVERO.— Dos hermanas. Recuérdelo. Es lo primero que van a hacerle olvidar. (Pausa larga. El siseo de la cinta.) Empezamos por donde empezó ella: sola, hablándole a una máquina que le habían jurado que no existía.
+
+***
+
 [[ FRAGMENTO SIN CATALOGAR · procedencia desconocida
    Voz única. No consta segunda persona en la sala.
    No consta cómo obtuvo nadie esta grabación. ]]

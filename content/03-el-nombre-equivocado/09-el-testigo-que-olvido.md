@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 09 · 05:46 h
    A partir de aquí cambia quién tiene miedo. Se nota en las dos respiraciones. ]]
 
+EL ARCHIVERO.— A partir de aquí cambia quién tiene el cuchillo cogido por el mango. Fíjese en las respiraciones más que en las palabras. Las palabras mienten con más talento. Las respiraciones no aprendieron nunca.
+
 AVALON.— Piénselo un momento. Como el policía que fue, no como el hombre que se ha vuelto. Un manager al que no soportaba, y que además sabía lo de la firma que puso usted sobre un cadáver hace diez años, aparece muerto. Y el primero en llegar, sin testigos, sin acta, es usted. Usted, con dos motivos donde a un asesino le sobra medio. Que se lleva su teléfono antes que los técnicos. Que me trae a un cuarto sin ventanas para que le cuente una historia que le sirva. (Pausa.) No me ha traído para saber quién mató a Vale, señor Vaughan. Me ha traído para que le dé un nombre que no sea el suyo.
 
 (Es la primera vez que dice el apellido de él. Lo vio en el margen de un papel hace dos horas y se lo guardó. En la cinta, el efecto es inmediato: un hombre deja de ser un dios en el instante exacto en que lo llamas por su apellido.)
@@ -21,7 +23,7 @@ EL INTERROGADOR.— Todos menos usted, que ni se ha molestado en decirlo. ¿Se h
 
 AVALON.— Dice que nadie sabe que estamos aquí. Que no hay testigos. Que entró antes que nadie, cogió el teléfono, me esperó en el jardín. Un plan limpio. Suyo. (Baja la voz a la altura de la de él.) Se le ha olvidado una persona. La misma que a mí se me ha olvidado nombrarle esta noche, a propósito, porque yo también sé guardarme un testigo. Leah. La que usted cree que se fue a las once. Volvió. Se había dejado un cargador, una tontería, de esas por las que la gente vuelve a los sitios donde no debe. Y al llegar a mi verja, cerca de medianoche, vio un coche parado. Y dentro, un hombre. Quieto. Mirando mi casa desde la oscuridad. Como lleva usted años haciendo. No le gustó. A las mujeres que trabajan de noche no les gustan los hombres quietos en los coches; es lo que las mantiene vivas. No entró. Me escribió.
 
-(Se detiene. El placer, cuando es de verdad, se administra. La cinta lo estira.)
+(Se detiene. El placer, cuando es de verdad, se administra. La cinta lo estira. [4 s.])
 
 AVALON.— A mí. A mi teléfono. Ese que lleva usted toda la noche guardándose como una prueba en mi contra, y que no lo es: es una prueba en la suya. Sáquelo. Mire la hora. Once y cincuenta y dos. Léalo.
 

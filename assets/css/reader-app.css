@@ -330,3 +330,16 @@ html, body {
   font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   font-size: .82em; letter-spacing: .02em; color: var(--accent-2); white-space: nowrap;
 }
+
+/* --- Voz de encuadre en el lector paginado --- */
+.book-page .line.host, .book-scroll .line.host {
+  font-style: italic;
+  color: var(--ink-soft);
+  border-left: 2px solid var(--accent-2);
+  padding-left: 1.15em;
+  text-indent: 0;
+  margin: 1.4em 0;
+  text-align: left;
+  hyphens: none;
+}
+.book-page .line.host .cue, .book-scroll .line.host .cue { color: var(--accent-2); font-style: normal; }

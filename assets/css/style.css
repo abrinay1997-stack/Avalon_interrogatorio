@@ -408,3 +408,18 @@ footer.site-footer {
   color: var(--accent-2);
   white-space: nowrap;
 }
+
+/* --- La voz de encuadre (el archivero / locutor), fuera de la sala --- */
+.line.host {
+  font-style: italic;
+  color: var(--ink-soft);
+  border-left: 2px solid var(--accent-2);
+  padding-left: 1.15em;
+  text-indent: 0;
+  margin: 1.5em 0;
+}
+.line.host .cue {
+  color: var(--accent-2);
+  font-style: normal;
+}
+.line.host em { font-style: normal; color: var(--ink); }

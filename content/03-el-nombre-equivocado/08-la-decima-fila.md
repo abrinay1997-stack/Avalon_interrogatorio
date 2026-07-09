@@ -7,6 +7,8 @@ author: Abrinay
 [[ CINTA 08 · 05:31 h
    En esta cinta habla, sobre todo, él. Es la única en que lo hace. ]]
 
+EL ARCHIVERO.— Ahora le toca hablar a él. Cuando termine esta cinta, va a odiarlo, y va a tener razón, y aun así lo va a entender. Yo lo entendí. Es lo que no me perdono.
+
 (Ella no contesta a la pregunta. En la grabación se la oye devolverle el foco.)
 
 AVALON.— ¿Cómo ha llegado usted hasta aquí? No a esta sala. A mí. A esta noche. Un hombre al que echaron del cuerpo no tiene coche sin distintivos, ni llaves de salas de interrogatorio, ni el teléfono de un muerto antes que los técnicos. Uno no acumula diez años de una vida ajena por casualidad. Eso tiene otro nombre.
