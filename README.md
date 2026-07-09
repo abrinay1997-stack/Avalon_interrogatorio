@@ -2,7 +2,7 @@
 
 > *Una confesión no es lo contrario de una mentira.*
 
-**Expediente sonoro · ficción noir para adultos.** Trece cintas recuperadas de un interrogatorio que nunca constó en ninguna parte. Una sola noche, un cuarto sin ventanas, dos voces —una cantante de veintidós años a la que casi nadie conoce todavía y un hombre que le jura que no hay ninguna grabadora encendida— y, en el suelo de su salón, un chico de su equipo al que quería. El hombre dice que viene por ese muerto. Miente: viene por otro, **Julian Kanne**, el productor que inventó a **Avalon Davies** y que murió hace un año de un accidente que solo él habría sabido escribir mejor. Y su arma nueva son las canciones de ella, que lee en voz alta como si fueran declaraciones firmadas.
+**Expediente sonoro · ficción noir para adultos.** Trece cintas recuperadas de un interrogatorio que nunca constó en ninguna parte. Una sola noche, un cuarto sin ventanas, dos voces —una cantante de veintidós años a la que casi nadie conoce todavía y un hombre que le jura que no hay ninguna grabadora encendida— y, en el piso de su sala, un muchacho de su equipo al que quería. El hombre dice que viene por ese muerto. Miente: viene por otro, **Julian Kanne**, el productor que inventó a **Avalon Davies** y que murió hace un año de un accidente que solo él habría sabido escribir mejor. Y su arma nueva son las canciones de ella, que lee en voz alta como si fueran declaraciones firmadas.
 
 Todo es diálogo. Todo es interrogatorio. Todo está grabado, aunque uno de los dos no lo sepa. Quien escuche creerá tres veces haber descubierto al monstruo; las tres se equivocará. Y al llegar a la última cinta, si vuelve a la primera, encontrará que la respuesta estuvo siempre ahí, respirando.
 
