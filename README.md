@@ -2,7 +2,7 @@
 
 > *Una confesión no es lo contrario de una mentira.*
 
-**Expediente sonoro · ficción noir para adultos.** Trece cintas recuperadas de un interrogatorio que nunca constó en ninguna parte. Una sola noche, un cuarto sin ventanas, dos voces —la cantante más famosa del mundo y un hombre que le jura que no hay ninguna grabadora encendida— y, entre las dos, el cadáver del hombre que inventó a **Avalon Davies**.
+**Expediente sonoro · ficción noir para adultos.** Trece cintas recuperadas de un interrogatorio que nunca constó en ninguna parte. Una sola noche, un cuarto sin ventanas, dos voces —una cantante de veintidós años a la que casi nadie conoce todavía y un hombre que le jura que no hay ninguna grabadora encendida— y, en el suelo de su salón, un chico de su equipo al que quería. El hombre dice que viene por ese muerto. Miente: viene por otro, **Julian Kanne**, el productor que inventó a **Avalon Davies** y que murió hace un año de un accidente que solo él habría sabido escribir mejor. Y su arma nueva son las canciones de ella, que lee en voz alta como si fueran declaraciones firmadas.
 
 Todo es diálogo. Todo es interrogatorio. Todo está grabado, aunque uno de los dos no lo sepa. Quien escuche creerá tres veces haber descubierto al monstruo; las tres se equivocará. Y al llegar a la última cinta, si vuelve a la primera, encontrará que la respuesta estuvo siempre ahí, respirando.
 
@@ -24,7 +24,7 @@ content/
     00-prologo.md
     01-el-vaso-de-agua.md
     02-el-hombre-que-me-invento.md
-    03-la-hermana-en-la-sombra.md
+    03-el-nombre-que-falta.md
   02-el-falsete/            · Cara B — El Falsete
     ...
   03-el-nombre-equivocado/  · Cara C — El Nombre Equivocado
@@ -40,7 +40,7 @@ Los epígrafes son documentos del caso —titulares, atestados, letras, mensajes
 Convenciones del texto (transcripción de audio):
 
 - **Carátula de cinta**: un bloque envuelto en `[[ ... ]]` se compone como cabecera forense monoespaciada (número de cinta, hora, notas del técnico).
-- **Pie de voz**: una línea que empieza por `NOMBRE.—` lleva el nombre en versalitas. Solo se oyen `AVALON.—`, `EL INTERROGADOR.—` y, grabada, `VOZ DE VALE.—`.
+- **Pie de voz**: una línea que empieza por `NOMBRE.—` lleva el nombre en versalitas. En la sala solo se oyen `AVALON.—` y `EL INTERROGADOR.—` (y, grabada, `VOZ DE ABRINAY.—`); la voz de encuadre que presenta las cintas es `EL ARCHIVERO.—`.
 - **Diseño de sonido**: un párrafo entero entre paréntesis es una acotación de audio (cursiva, sangrada). Dentro de un parlamento, `(así)`.
 - **Anotaciones de cinta**: `[estática]`, `[11 s de silencio]`, `[inaudible]` se marcan entre corchetes.
 - `*cursiva*` para lo que se canta.
